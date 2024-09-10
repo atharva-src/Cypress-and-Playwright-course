@@ -1,0 +1,7 @@
+today we learnt the following commands of git : 
+
+git checkout f 
+
+git diff
+
+git rm --cached filename
