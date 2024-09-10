@@ -4,4 +4,6 @@ git checkout f
 
 git diff
 
-git rm --cached filename
+git rm --cached filename --//files removed only form commit 
+
+git rm 
